@@ -1,7 +1,7 @@
 # Computer Engineering Portfolio
 
 ## Personal Information
-Name:Gladys S. Cardejon
+Name: Gladys S. Cardejon
 Course: BS Computer Engineering  
 Section: BSCpE3A  
 
