@@ -2,6 +2,7 @@
 
 ## Personal Information
 Name: Gladys S. Cardejon
+
 Section: BSCpE3A  
 
 ## About Me
