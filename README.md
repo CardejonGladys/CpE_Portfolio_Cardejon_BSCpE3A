@@ -1,7 +1,7 @@
 # Computer Engineering Portfolio
 
 ## Personal Information
-Name: Juan Dela Cruz  
+Name: GLADYS S. CARDEJON
 Course: BS Computer Engineering  
 Section: BSCpE3A  
 
