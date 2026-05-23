@@ -1,4 +1,4 @@
-# Computer Engineering Portfolio
+# CpE_Portfolio_Cardejon_BSCpE3A
 
 ## Personal Information
 Name: Gladys S. Cardejon
@@ -17,7 +17,7 @@ I am a Computer Engineering student passionate about embedded systems, programmi
 - JavaScript
 - GitHub
   
-## Portfolio Contains
+## Portfolio Contents
 - Programming Projects
 - Arduino/ESP32 Projects
 - Web Development Projects
