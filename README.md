@@ -2,7 +2,6 @@
 
 ## Personal Information
 Name: Gladys S. Cardejon
-Course: BS Computer Engineering  
 Section: BSCpE3A  
 
 ## About Me
@@ -16,3 +15,12 @@ I am a Computer Engineering student passionate about embedded systems, programmi
 - HTML/CSS
 - JavaScript
 - GitHub
+  
+## Portfolio Contains
+- Programming Projects
+- Arduino/ESP32 Projects
+- Web Development Projects
+- System Applications
+- Embedded Systems
+- Research/Capstone Projects
+  
