@@ -9,9 +9,9 @@ Section: BSCpE3A
 I am a Computer Engineering student passionate about embedded systems, programming, and web development.
 
 ## Skills & Technologies
+- Basic programming 
 - C++
 - Python
-- JavaScript
 - Schematic design
   
 ## FEATURED PROJECTS
@@ -23,6 +23,11 @@ I am a Computer Engineering student passionate about embedded systems, programmi
 Constructed using interconnected breadboards, this 4-bit Arithmetic Logic Unit (ALU) functions as the essential hardware core for processing binary data. By integrating a Full Adder to handle arithmetic calculations, a 2-to-4 Decoder to interpret control signals, and a 4-to-1 Multiplexer to route the resulting data, the circuit effectively executes both complex logical and arithmetic operations.
 
 <img width="1080" height="1276" alt="ec45bf3f-fab9-49a2-aba3-2d9368624b54" src="https://github.com/user-attachments/assets/b0c4200a-d61e-472d-8fb6-539ffd83f66b" />
+
+## CONTACT INFORMATION
+
+Email: cardejongldays@gmail.com
+Number: 09096197865
 
 
 
