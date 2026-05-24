@@ -12,16 +12,9 @@ I am a Computer Engineering student passionate about embedded systems, programmi
 - C++
 - Python
 - Arduino
-- ESP32
-- HTML/CSS
 - JavaScript
-- GitHub
   
-## Portfolio Contents
-- Programming Projects
-- Arduino/ESP32 Projects
-- Web Development Projects
-- System Applications
-- Embedded Systems
-- Research/Capstone Projects
+## PROJECTS
+
+
   
