@@ -11,10 +11,12 @@ I am a Computer Engineering student passionate about embedded systems, programmi
 ## Skills & Technologies
 - C++
 - Python
-- Arduino
 - JavaScript
+- Schematic design
   
-## PROJECTS
+## FEATURED PROJECTS
+1.ALU 
+
 
 
   
