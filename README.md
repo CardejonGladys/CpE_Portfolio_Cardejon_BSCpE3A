@@ -1,9 +1,12 @@
 # CpE_Portfolio_Cardejon_BSCpE3A
 
 ## Personal Information
+
 Name: Gladys S. Cardejon
 
-Section: BSCpE3A  
+## Course & Section
+
+Bachelor of Science in Computer Engineering - CE3A
 
 ## About Me
 
@@ -16,6 +19,8 @@ I am a Computer Engineering student interested in programming, electronics, and 
 - C++
 - Python
 - Schematic design
+- HTML
+  
   
 ## FEATURED PROJECTS
 
